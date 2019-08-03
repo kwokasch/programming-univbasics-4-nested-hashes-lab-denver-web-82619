@@ -126,6 +126,6 @@ def adding_to_dennis
   
   dennis_ritchies_languages = [
   "C"]
-  programmer_hash[:dennis_ritchie][:languages] = dennis_ritchies_languages.push("Assembly")
+  programmer_hash[:dennis_ritchie] [:languages] = dennis_ritchies_languages.push("Assembly")
   
 end
