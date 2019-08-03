@@ -86,7 +86,7 @@ def adding_matz
    :languages => ["LISP", "C"]
   }
   
-  programmer_hash.unshift[:yukihiro_matsumoto]
+  programmer_hash.unshift(:yukihiro_matsumoto)
   
   puts programmer_hash  
 end
